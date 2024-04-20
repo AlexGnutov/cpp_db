@@ -3,7 +3,7 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
-hw4/libpqxx-master
+hw_4/libpqxx-master
 
 # User-specific files
 *.rsuser
